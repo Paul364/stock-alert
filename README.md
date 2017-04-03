@@ -1,4 +1,4 @@
-#An application using react to alert of stock price events
+# An application using react to alert of stock price events
 
 Create an application that would monitor given stock exchange symbols
 and alerts if quotes go up or down.
